@@ -3,7 +3,6 @@
 #' @param df a very long table
 #' @param row_length the amount of rows per each table
 #'
-#' @importFrom xtable xtable
 #' @return
 #' @export
 #'
